@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class Solution
 {
    public static void main(String[] args) 
-   {
-      
+   {      
 	  Scanner scan = new Scanner(System.in);
       System.out.println("Zadejte prosim libovolna pismena : ");
       String st = scan.nextLine();
